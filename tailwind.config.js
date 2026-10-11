@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       
     },
+    minWidth: {
+      '3/4': '75%',
+    },
   },
   plugins: [],
 }
