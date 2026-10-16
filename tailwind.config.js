@@ -2,9 +2,7 @@
 module.exports = {
   content: ['./public/**/*.{html,js}'],
   theme: {
-    extend: {
-      
-    },
+    extend: {},
     minWidth: {
       '3/4': '75%',
     },
